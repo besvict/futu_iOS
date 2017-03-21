@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/besvict/futu_iOS/blob/master/futu.ipa</string>
+					<string>http://m2.toobet.co/Content/images_app/futu.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://github.com/besvict/futu_iOS/blob/master/AppIcon.png</string>
+					<string>http://m2.toobet.co/Content/images_app/AppIcon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://github.com/besvict/futu_iOS/blob/master/AppIcon.png</string>
+					<string>http://m2.toobet.co/Content/images_app/AppIcon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
